@@ -1,5 +1,5 @@
 # make_code
-making usage of leaked python __code__ objects easier
+making usage of leaked python `__code__` objects easier
 
 since dis.types.CodeType isnt very well documented I put a tiny script out to make leaked python bytecode easier to handle
 
